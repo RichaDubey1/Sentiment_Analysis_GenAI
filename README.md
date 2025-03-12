@@ -1,2 +1,3 @@
 # Sentiment_Analysis_GenAI
-Sentiment Analysis using transformers
+Very Basic Sentiment Analysis using transformers
+exploring the capabilities of transformers in this repo
